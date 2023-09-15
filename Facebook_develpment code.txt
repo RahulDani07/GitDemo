@@ -1,0 +1,11 @@
+Facebook_develpment code
+
+Author: Rahul
+
+1)profile page code
+
+2)chat screen code
+
+3)last seen code
+
+4)attachments(image,audio and files)

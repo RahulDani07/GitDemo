@@ -1,0 +1,41 @@
+
+Secondary Knowledge Skill set:
+●    I am highly proficient in Java with a strong understanding of its core concepts and features
+●    Good understanding of Oops, core Java, and Java collections.
+●    I am confident in tackling complex programming challenges using the language.
+●    Good Coding Skills in Core Java.
+●    I have good knowledge of Test Automation using Selenium WebDriver, POM Design Pattern, and TestNG.  
+●    I have completed comprehensive courses in both Java and Selenium, honing my skills and expertise in these areas.
+●    These courses have equipped me with a strong foundation in Java programming and a deep understanding of Selenium automation testing. 
+●    I am well-prepared to apply my knowledge and proficiently automate web testing processes.
+●    I am enthusiastic about embracing new technologies and committed to continuously upskilling myself to enhance my knowledge and expertise. 
+●    I am eager to take on challenges and expand my capabilities, ensuring that I stay updated with the latest advancements in the ever-evolving field of technology.
+
+
+
+
+Client – VOYA Financial, New York, U.S 
+●    Providing software application support and Performing analyses on software application functionality
+●    Ensuring effective front-end and back-end functionality of applications.
+●    Documenting processes and monitoring application performance metrics.
+●    Determining the causes of application errors and reporting them.
+●    Good knowledge of job scheduling and monitoring using the Tivoli Workload Scheduling tool 
+●    Plan, perform, and manage medium to high complexity production support tasks and activities that require subject matter knowledge regarding general application and infrastructure support (e.g., incident, change, problem management, controls, monitoring production processing) and ITIL framework.
+●    For ticketing tool used ServiceNow in monitoring batch abends and fulfilling business request 
+●    Monitors the production-issue queue and resolves issues while maintaining our Customer Service Level Agreements
+●    Collaborated with cross-functional teams to troubleshoot and resolve issues related to ETL processes and business requirements
+●    Having demonstrated Data Warehousing knowledge in Banking/Insurance domain  
+●    Hand-on experience in Informatica 10.4/10.5, extracting data from heterogeneous sources (Oracle, DB2, Flat files, etc.),   
+●    Knowledge in handling workflow failures in Informatica Monitor, finding out the root cause, and providing appropriate solutions for the issue. 
+
+
+Scheduling Tool: Tivoli Workload Scheduler
+Ticket Handling Tool: ServiceNow
+Tools: Putty and SQL Developer
+Data Warehousing Tool: Informatica PowerCenter
+Programming Language: SQL, Unix Shell Scripting
+Secondary Skillset
+● Programming Language: JAVA
+● Automation Testing Tool: Selenium
+● Framework: TestNG with POM model
+● Integration/Continuous Deployment: GitHub and Maven  
